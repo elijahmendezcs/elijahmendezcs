@@ -6,4 +6,4 @@
 - 🎾 Fun Fact: I enjoy playing tennis with friends in my free time.
 ---
 - 📧 Email: elijahmendez2022@gmail.com
-- 💼 LinkedIn: linkedin.com/in/swelijah
+- 💼 LinkedIn: linkedin.com/swelijah
