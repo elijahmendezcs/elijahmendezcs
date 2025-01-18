@@ -2,7 +2,7 @@
 - 🔍 I’m actively exploring opportunities to sharpen my skills and build impactful software solutions.
 ----
 - 🎓 Current Role: Second-year Computer Science student and an incoming Summer Software Engineering Intern @ JPMorgan Chase
-- 🌟 Interests: Software engineering and fullstack development.
+- 🌟 Interests: Software engineering/fullstack development.
 - 🎾 Fun Fact: I enjoy playing tennis with friends in my free time.
 ---
 - 📧 Email: elijahmendez2022@gmail.com
