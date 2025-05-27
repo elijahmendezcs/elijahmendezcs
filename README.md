@@ -1,8 +1,3 @@
 - 👋 Hello! I’m Elijah Mendez, a Computer Science and Engineering student at Ohio State University specializing in Software Engineering.
-----
-- 🎓 Current Role: 2nd Year Computer Science student and incoming Summer Software Engineering Intern @ J.P. Morgan Chase & Co.
-- 🌟 Interests: Software engineering/fullstack development.
-- 🎾 Fun Fact: I enjoy playing tennis with friends in my free time.
----
-- 📧 Email: elijahmendez2022@gmail.com
+- 📧 Email: swemendez@gmail.com
 - 💼 LinkedIn: linkedin.com/swelijah
